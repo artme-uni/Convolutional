@@ -1,0 +1,11 @@
+Accuracy: 89.84 %
+- AUC for 0: 0.99640
+- AUC for 1: 0.99874
+- AUC for 2: 0.99176
+- AUC for 3: 0.99337
+- AUC for 4: 0.99017
+- AUC for 5: 0.99014
+- AUC for 6: 0.99551
+- AUC for 7: 0.99504
+- AUC for 8: 0.99494
+- AUC for 9: 0.98846
